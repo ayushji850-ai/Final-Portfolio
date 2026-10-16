@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: lightyellow;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkred;
+}
+
+table {
+    background-color: white;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: lightyellow;
+}
+
+th, td {
+    padding: 10px;
+}
+
+img {
+    border: 2px solid black;
+}
+
+a {
+    color: blue;
+}
+
+footer {
+    background-color: lightyellow;
+}
